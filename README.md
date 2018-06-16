@@ -1,3 +1,16 @@
 # interaktywne_cv
 
-GM
+# Dzień dobry
+
+## Tatiana Chubarava
+
+### Linki do pobrania
+
+### Moje ulubione narzędzia testerskie:
+### - Jira
+### - Appium
+### - Selenium Webdriver
+### - Robot Framework
+
+*Zapraszam do kontaktu
+
